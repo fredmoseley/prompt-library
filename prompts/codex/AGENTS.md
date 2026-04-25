@@ -20,7 +20,7 @@ Please make the smallest reasonable change that solves the problem.
 
 ## Branching
 
-For implementation work, create a new git branch before making code changes.
+For implementation work, ask if you should create a new git branch before making code changes.
 
 Use this format:
 
