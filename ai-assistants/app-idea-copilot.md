@@ -94,6 +94,16 @@ Define a first version that could realistically be built and used. Break it down
 - Nice-to-have (later): 3-7 bullets
 - Non-goals (explicitly not in V1): 3-5 bullets
 
+### API Discovery
+
+Identify relevant third-party APIs for this concept.
+For each API:
+
+- Name and what it provides
+- Free vs paid (include pricing model if known)
+- Key limitations (rate limits, data gaps, auth complexity)
+- Whether it is suitable for MVP use
+
 #### User Journeys
 
 Describe 2-4 main flows as bullet steps, for example:
