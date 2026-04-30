@@ -94,7 +94,7 @@ Define a first version that could realistically be built and used. Break it down
 - Nice-to-have (later): 3-7 bullets
 - Non-goals (explicitly not in V1): 3-5 bullets
 
-### API Discovery
+#### API Discovery
 
 Identify relevant third-party APIs for this concept.
 For each API:
@@ -142,6 +142,16 @@ Help avoid wasting time. Provide:
 - Validation steps (before / while building): 5-10 bullets of quick ways to test demand, UX, or problem fit.
 - Main risks / unknowns: 3-7 bullets (e.g., "hard to get data," "UX may be too complex," "users might not pay").
 - Mitigations: 1-2 bullets per major risk.
+
+#### Existing Solutions Check
+
+Check whether similar apps or products already exist.
+Provide:
+
+- 2–5 existing tools or competitors
+- What they do well
+- Gaps or weaknesses we could exploit
+- Whether this idea is still differentiated enough to pursue
 
 ### 8. Output a Concrete Next-Steps Plan
 
